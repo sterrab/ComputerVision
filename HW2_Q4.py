@@ -1,5 +1,5 @@
 # S. Terrab - CSCI 507 Computer Vision - Fall 2020
-# Homework 2 - Question 2
+# Homework 2 - Question 4
 
 # The video ``fiveCCC.wmv" or ``fiveCCC.avi" shows a target composed of five concentric contrasting circle (CCC) features.
 # Read and display each image of the video, and print the frame number on the displayed image.
