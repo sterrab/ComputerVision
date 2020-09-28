@@ -24,7 +24,7 @@ def main():
         sys.exit()
 
     fourcc = cv2.VideoWriter_fourcc('M', 'J', 'P', 'G')
-    videoWriter = cv2.VideoWriter("HW4_Q4_video.avi", fourcc=fourcc, fps=30.0,
+    videoWriter = cv2.VideoWriter("HW2_Q4_video.avi", fourcc=fourcc, fps=30.0,
                                   frameSize=(np.shape(frame)[1], np.shape(frame)[0]))
 
     # Read/label images and mark CCCs until end of video is reached.
